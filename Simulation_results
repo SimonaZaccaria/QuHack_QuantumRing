@@ -1,216 +1,214 @@
 Factorizing 143 (bit length: 8)
-Factorizing N=143, chosen a=89
+Factorizing N=143, chosen a=68
+OrderedDict([('cp', 36), ('h', 18), ('measure', 9), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 66
 Factors found: 11, 13
 Success: 143 = 11 × 13
-Number of qubit:9
-Number of gates: 65
 
 Factorizing 899 (bit length: 10)
-Factorizing N=899, chosen a=765
+Factorizing N=899, chosen a=255
+OrderedDict([('cp', 55), ('h', 22), ('measure', 11), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 91
 Factors found: 29, 31
 Success: 899 = 29 × 31
-Number of qubit:11
-Number of gates: 90
 
 Factorizing 3127 (bit length: 12)
-Factorizing N=3127, chosen a=1831
+Factorizing N=3127, chosen a=248
+OrderedDict([('cp', 78), ('h', 26), ('measure', 13), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 120
 Factors found: 53, 59
 Success: 3127 = 53 × 59
-Number of qubit: 13
-Number of gates: 119
 
 Factorizing 11009 (bit length: 14)
-Factorizing N=11009, chosen a=3220
+Factorizing N=11009, chosen a=5821
+OrderedDict([('cp', 105), ('h', 30), ('measure', 15), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 153
 Factors found: 101, 109
 Success: 11009 = 101 × 109
-Number of qubit:15
-Number of gates:152
 
 Factorizing 47053 (bit length: 16)
-Factorizing N=47053, chosen a=40882
+Factorizing N=47053, chosen a=33823
+OrderedDict([('cp', 136), ('h', 34), ('measure', 17), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 190
 Factors found: 211, 223
 Success: 47053 = 211 × 223
-Number of qubit: 17
-Number of gates:189
 
 Factorizing 167659 (bit length: 18)
-Factorizing N=167659, chosen a=92962
+Factorizing N=167659, chosen a=21877
+OrderedDict([('cp', 171), ('h', 38), ('measure', 19), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 231
 Factors found: 389, 431
 Success: 167659 = 389 × 431
-Number of qubit:19
-Number of gates: 230
 
 Factorizing 744647 (bit length: 20)
-Factorizing N=744647, chosen a=150729
+Factorizing N=744647, chosen a=39943
+OrderedDict([('cp', 210), ('h', 42), ('measure', 21), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 276
 Factors found: 821, 907
 Success: 744647 = 821 × 907
-Number of qubit:21
-Number of gates:275
 
 Factorizing 3036893 (bit length: 22)
-Factorizing N=3036893, chosen a=2439707
+Factorizing N=3036893, chosen a=722929
+OrderedDict([('cp', 253), ('h', 46), ('measure', 23), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 325
 Factors found: 1709, 1777
 Success: 3036893 = 1709 × 1777
-Number of qubit:23
-Number of gates:324
 
 Factorizing 11426971 (bit length: 24)
-Factorizing N=11426971, chosen a=10245618
+Factorizing N=11426971, chosen a=471153
+OrderedDict([('cp', 300), ('h', 50), ('measure', 25), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 378
 Factors found: 3191, 3581
 Success: 11426971 = 3191 × 3581
-Number of qubit:25
-Number of gates:377
 
 Factorizing 58949987 (bit length: 26)
-Factorizing N=58949987, chosen a=52642365
+Factorizing N=58949987, chosen a=32783758
+OrderedDict([('cp', 351), ('h', 54), ('measure', 27), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 435
 Factors found: 7333, 8039
 Success: 58949987 = 7333 × 8039
-Number of qubit:27
-Number of gates:434
 
 Factorizing 208241207 (bit length: 28)
-Factorizing N=208241207, chosen a=59864846
+Factorizing N=208241207, chosen a=77660421
+OrderedDict([('cp', 403), ('h', 58), ('measure', 29), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 493
 Factors found: 13241, 15727
 Success: 208241207 = 13241 × 15727
-Number of qubit:29
-Number of gates:492
 
 Factorizing 857830637 (bit length: 30)
-Factorizing N=857830637, chosen a=426884638
+Factorizing N=857830637, chosen a=371885825
+OrderedDict([('cp', 455), ('h', 62), ('measure', 31), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 551
 Factors found: 29167, 29411
 Success: 857830637 = 29167 × 29411
-Number of qubit:31
-Number of gates:550
 
 Factorizing 2776108693 (bit length: 32)
-Factorizing N=2776108693, chosen a=1105238990
+Factorizing N=2776108693, chosen a=1813091620
+OrderedDict([('cp', 507), ('h', 66), ('measure', 33), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 609
 Factors found: 52027, 53359
 Success: 2776108693 = 52027 × 53359
-Number of qubit:33
-Number of gates:608
 
 Factorizing 11455067797 (bit length: 34)
-Factorizing N=11455067797, chosen a=5432892665
+Factorizing N=11455067797, chosen a=8834800535
+OrderedDict([('cp', 559), ('h', 70), ('measure', 35), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 667
 Factors found: 104849, 109253
 Success: 11455067797 = 104849 × 109253
-Number of qubit:35
-Number of gates: 666
 
 Factorizing 52734393667 (bit length: 36)
-Factorizing N=52734393667, chosen a=27422680907
+Factorizing N=52734393667, chosen a=17383685774
+OrderedDict([('cp', 611), ('h', 74), ('measure', 37), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 725
 Factors found: 201437, 261791
 Success: 52734393667 = 201437 × 261791
-Number of qubit:37
-Number of gates: 724
 
 Factorizing 171913873883 (bit length: 38)
-Factorizing N=171913873883, chosen a=57699397231
+Factorizing N=171913873883, chosen a=7800647909
+OrderedDict([('cp', 663), ('h', 78), ('measure', 39), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 783
 Factors found: 395287, 434909
 Success: 171913873883 = 395287 × 434909
-Number of qubit:39
-Number of gates:782
 
 Factorizing 862463409547 (bit length: 40)
-Factorizing N=862463409547, chosen a=272629050920
+Factorizing N=862463409547, chosen a=78143254970
+OrderedDict([('cp', 715), ('h', 82), ('measure', 41), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 841
 Factors found: 903017, 955091
 Success: 862463409547 = 903017 × 955091
-Number of qubit:41
-Number of gates:841
 
 Factorizing 2830354423669 (bit length: 42)
-Factorizing N=2830354423669, chosen a=2728905760331
+Factorizing N=2830354423669, chosen a=1923417180262
+OrderedDict([('cp', 767), ('h', 86), ('measure', 43), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 899
 Factors found: 1613279, 1754411
 Success: 2830354423669 = 1613279 × 1754411
-Number of qubit:43
-Numbver of gates:899
 
 Factorizing 12942106192073 (bit length: 44)
-Factorizing N=12942106192073, chosen a=1645815190248
+Factorizing N=12942106192073, chosen a=6689528964917
+OrderedDict([('cp', 819), ('h', 90), ('measure', 45), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 957
 Factors found: 3227507, 4009939
 Success: 12942106192073 = 3227507 × 4009939
-Number of qubit:45
-Number of gates:956
 
 Factorizing 53454475917779 (bit length: 46)
-Factorizing N=53454475917779, chosen a=17876965913647
+Factorizing N=53454475917779, chosen a=16116405671742
+OrderedDict([('cp', 871), ('h', 94), ('measure', 47), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1015
 Factors found: 6982463, 7655533
 Success: 53454475917779 = 6982463 × 7655533
-Number of qubit:47
-Number of gates:1015
 
 Factorizing 255975740711783 (bit length: 48)
-Factorizing N=255975740711783, chosen a=93844959573492
+Factorizing N=255975740711783, chosen a=139282089864168
+OrderedDict([('cp', 923), ('h', 98), ('measure', 49), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1073
 Factors found: 15694933, 16309451
 Success: 255975740711783 = 15694933 × 16309451
-Number of qubit:49
-Number of gates:1073
 
 Factorizing 696252032788709 (bit length: 50)
-Factorizing N=696252032788709, chosen a=490831854315184
+Factorizing N=696252032788709, chosen a=265195658259535
+OrderedDict([('cp', 975), ('h', 102), ('measure', 51), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1131
 Factors found: 25270489, 27551981
 Success: 696252032788709 = 25270489 × 27551981
-Number of qubit:51
-Number of gates:1131
 
 Factorizing 3622511636491483 (bit length: 52)
-Factorizing N=3622511636491483, chosen a=2272812843763720
+Factorizing N=3622511636491483, chosen a=242501271003480
+OrderedDict([('cp', 1027), ('h', 106), ('measure', 53), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1189
 Factors found: 60070589, 60304247
 Success: 3622511636491483 = 60070589 × 60304247
-Number of qubit:53
-Number of gates:1189
 
 Factorizing 15631190744806271 (bit length: 54)
-Factorizing N=15631190744806271, chosen a=4579260294883705
+Factorizing N=15631190744806271, chosen a=14522881105123819
+OrderedDict([('cp', 1079), ('h', 110), ('measure', 55), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1247
 Factors found: 122598937, 127498583
 Success: 15631190744806271 = 122598937 × 127498583
-Number of qubit:55
-Number of gates:1247
 
 Factorizing 51326462028714137 (bit length: 56)
-Factorizing N=51326462028714137, chosen a=21152536649627834
+Factorizing N=51326462028714137, chosen a=38778405417012458
+OrderedDict([('cp', 1131), ('h', 114), ('measure', 57), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1305
 Factors found: 212423051, 241623787
 Success: 51326462028714137 = 212423051 × 241623787
-Number of qubit:57
-Number of gates:1305
 
 Factorizing 217320198167105543 (bit length: 58)
-Factorizing N=217320198167105543, chosen a=139377137520593919
+Factorizing N=217320198167105543, chosen a=178343331232730627
+OrderedDict([('cp', 1183), ('h', 118), ('measure', 59), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1363
 Factors found: 433609129, 501189167
 Success: 217320198167105543 = 433609129 × 501189167
-Number of qubit:59
-Number of gates:1363
 
 Factorizing 827414216976034907 (bit length: 60)
-Factorizing N=827414216976034907, chosen a=548470537233111632
+Factorizing N=827414216976034907, chosen a=258488288217531400
+OrderedDict([('cp', 1235), ('h', 122), ('measure', 61), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1421
 Factors found: 896676269, 922756903
 Success: 827414216976034907 = 896676269 × 922756903
-Number of qubit:61
-Number of gates:1421
 
 Factorizing 3594396771839811733 (bit length: 62)
-Factorizing N=3594396771839811733, chosen a=1662016044970178228
+Factorizing N=3594396771839811733, chosen a=2244267732615743291
+OrderedDict([('cp', 1287), ('h', 126), ('measure', 63), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1479
 Factors found: 1763095459, 2038685287
 Success: 3594396771839811733 = 1763095459 × 2038685287
-Number of qubit:63
-Number of gates:1479
 
 Factorizing 13489534701147995111 (bit length: 64)
-Factorizing N=13489534701147995111, chosen a=5725461255234494453
+Factorizing N=13489534701147995111, chosen a=11865249820691807699
+OrderedDict([('cp', 1339), ('h', 130), ('measure', 65), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1537
 Factors found: 3258784873, 4139437007
 Success: 13489534701147995111 = 3258784873 × 4139437007
-Number of qubit:65
-Number of gates:1537
 
 Factorizing 48998116978431560767 (bit length: 66)
-Factorizing N=48998116978431560767, chosen a=13934551687421861214
+Factorizing N=48998116978431560767, chosen a=2867078638154030127
+OrderedDict([('cp', 1391), ('h', 134), ('measure', 67), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1595
 Factors found: 6520568657, 7514393231
 Success: 48998116978431560767 = 6520568657 × 7514393231
-Number of qubit:67
-Number of gates:1595
 
 Factorizing 220295379750460962499 (bit length: 68)
-Factorizing N=220295379750460962499, chosen a=641171721328035762
-Factors found: 13423982749, 16410582751
-Success: 220295379750460962499 = 13423982749 × 16410582751
-Number of qubit 69
-Number of gates:1653
+Factorizing N=220295379750460962499, chosen a=124558992555219140325
+OrderedDict([('cp', 1443), ('h', 138), ('measure', 69), ('cx', 2), ('barrier', 1)])
+Total Gate Count: 1653
