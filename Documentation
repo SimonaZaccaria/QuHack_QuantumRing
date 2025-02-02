@@ -46,6 +46,7 @@ The output displays the factorization process for each number, including:
 
 The selected random number a.
 The factors found.
+Total Gate count.
 Whether the factorization was successful.
 
 
