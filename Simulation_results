@@ -115,14 +115,14 @@ Factorizing N=862463409547, chosen a=272629050920
 Factors found: 903017, 955091
 Success: 862463409547 = 903017 × 955091
 Number of qubit:41
-Number of gates:840
+Number of gates:841
 
 Factorizing 2830354423669 (bit length: 42)
 Factorizing N=2830354423669, chosen a=2728905760331
 Factors found: 1613279, 1754411
 Success: 2830354423669 = 1613279 × 1754411
 Number of qubit:43
-Numbver of gates:898
+Numbver of gates:899
 
 Factorizing 12942106192073 (bit length: 44)
 Factorizing N=12942106192073, chosen a=1645815190248
@@ -136,77 +136,77 @@ Factorizing N=53454475917779, chosen a=17876965913647
 Factors found: 6982463, 7655533
 Success: 53454475917779 = 6982463 × 7655533
 Number of qubit:47
-Number of gates:1014
+Number of gates:1015
 
 Factorizing 255975740711783 (bit length: 48)
 Factorizing N=255975740711783, chosen a=93844959573492
 Factors found: 15694933, 16309451
 Success: 255975740711783 = 15694933 × 16309451
 Number of qubit:49
-Number of gates:1072
+Number of gates:1073
 
 Factorizing 696252032788709 (bit length: 50)
 Factorizing N=696252032788709, chosen a=490831854315184
 Factors found: 25270489, 27551981
 Success: 696252032788709 = 25270489 × 27551981
 Number of qubit:51
-Number of gates:1130
+Number of gates:1131
 
 Factorizing 3622511636491483 (bit length: 52)
 Factorizing N=3622511636491483, chosen a=2272812843763720
 Factors found: 60070589, 60304247
 Success: 3622511636491483 = 60070589 × 60304247
 Number of qubit:53
-Number of gates:1188
+Number of gates:1189
 
 Factorizing 15631190744806271 (bit length: 54)
 Factorizing N=15631190744806271, chosen a=4579260294883705
 Factors found: 122598937, 127498583
 Success: 15631190744806271 = 122598937 × 127498583
 Number of qubit:55
-Number of gates:1246
+Number of gates:1247
 
 Factorizing 51326462028714137 (bit length: 56)
 Factorizing N=51326462028714137, chosen a=21152536649627834
 Factors found: 212423051, 241623787
 Success: 51326462028714137 = 212423051 × 241623787
 Number of qubit:57
-Number of gates:1304
+Number of gates:1305
 
 Factorizing 217320198167105543 (bit length: 58)
 Factorizing N=217320198167105543, chosen a=139377137520593919
 Factors found: 433609129, 501189167
 Success: 217320198167105543 = 433609129 × 501189167
 Number of qubit:59
-Number of gates:1362
+Number of gates:1363
 
 Factorizing 827414216976034907 (bit length: 60)
 Factorizing N=827414216976034907, chosen a=548470537233111632
 Factors found: 896676269, 922756903
 Success: 827414216976034907 = 896676269 × 922756903
 Number of qubit:61
-Number of gates:1420
+Number of gates:1421
 
 Factorizing 3594396771839811733 (bit length: 62)
 Factorizing N=3594396771839811733, chosen a=1662016044970178228
 Factors found: 1763095459, 2038685287
 Success: 3594396771839811733 = 1763095459 × 2038685287
 Number of qubit:63
-Number of gates:1478
+Number of gates:1479
 
 Factorizing 13489534701147995111 (bit length: 64)
 Factorizing N=13489534701147995111, chosen a=5725461255234494453
 Factors found: 3258784873, 4139437007
 Success: 13489534701147995111 = 3258784873 × 4139437007
 Number of qubit:65
-Number of gates:1536
+Number of gates:1537
 
 Factorizing 48998116978431560767 (bit length: 66)
 Factorizing N=48998116978431560767, chosen a=13934551687421861214
 Factors found: 6520568657, 7514393231
 Success: 48998116978431560767 = 6520568657 × 7514393231
 Number of qubit:67
-Number of gates:1594
+Number of gates:1595
 
 Factorizing 220295379750460962499 (bit length: 68)
 Factorizing N=220295379750460962499, chosen a=641171721328035762
