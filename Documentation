@@ -1,1 +1,54 @@
+Documentation for the Quantum Factorization Code
+This code implements Shor's Algorithm for integer factorization using Qiskit and QuantumRingsLib, combined with a SAT solver (python-sat) to optimize the process. The goal is to factorize semiprime numbers from the smallest to the largest bit-length possible, leveraging quantum computing for efficiency.
+
+Libraries and Dependencies
+The code imports several essential libraries:
+
+Qiskit: For quantum circuit simulation and execution.
+QuantumRingsLib: A quantum computing backend provider.
+pysat.solvers (Glucose3): A SAT solver to find integer factors.
+Sympy: For computing greatest common divisors (GCD).
+Matplotlib: For visualizing results.
+
+Quantum Rings Provider Setup
+The QuantumRingsProvider is initialized with a token and an email address to access the "scarlet_quantum_rings" backend. This backend is used for executing quantum circuits.
+
+Semiprime Numbers Dataset
+A dictionary named semiprimes is defined, containing semiprime numbers of increasing bit lengths. These numbers serve as test cases for the algorithm.
+
+Quantum Fourier Transform (QFT) Inverse Function
+The function qft_dagger(qc, n) implements the inverse Quantum Fourier Transform (QFT) on a quantum circuit:
+1 - Swaps qubits to reverse order.
+2 - Applies controlled phase gates (CP) and Hadamard gates (H).
+
+SAT Solver for Factorization
+The function solve_factors(N) uses a brute-force approach to find two factors of N by iterating up to its square root. If p * q = N is found, it returns (p, q).
+
+Implementation of Shor’s Algorithm
+
+The function shors_algorithm(N) performs the factorization:
+
+1 - Handles trivial cases: If N is even, returns (2, N/2).
+2 - Selects a random integer a coprime with N using the GCD function.
+3 - Builds a quantum circuit:
+    Creates a Hadamard transform on a register.
+    Implements a simplified modular exponentiation step.
+    Applies inverse QFT and performs measurements.
+4 - Executes the quantum circuit on the QuantumRings backend.
+5 - Extracts measurement results and processes them using the SAT solver.
+6 - Checks for valid factors and prints them.
+
+Execution Loop
+The script iterates through all the semiprime numbers from smallest to largest, running shors_algorithm(N) for each and printing the results.
+
+Example Output
+The output displays the factorization process for each number, including:
+
+The selected random number a.
+The factors found.
+Whether the factorization was successful.
+
+
+
+
 
